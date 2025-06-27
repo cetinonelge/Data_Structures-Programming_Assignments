@@ -1,0 +1,7 @@
+1) Open a terminal window in this directory
+2) Type "make" without quotations and press enter
+3) An executable file will be generated with the folder's name
+4) Type "./<Executable>" without quotations where <Executable> is the name of the generated executable file and press enter
+5) This will run the program that is compiled.
+6) You can edit the source files in the src folders and then recompile using "make" to generate a new executable.
+7) In case a problem occurs, you can type "make clean" to delete the object file and the generated executable.
